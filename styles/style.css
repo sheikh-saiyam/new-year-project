@@ -1,6 +1,6 @@
 header{
     margin: 50px 90px ;
-    background-image: url(../images/Banner\ Image.png ) ;
+    background-image: url(./images/Banner\ Image.png ) ;
     background-repeat: no-repeat;
     height: 650px;
 }
@@ -45,7 +45,7 @@ header{
 }
 /* sec-2 */
 .sec-2{
-    background-image: url(../images/Vectorrr.png);
+    background-image: url(./images/Vectorrr.png);
     margin: 80px 92px;
     height: 600px;
     display: flex;
